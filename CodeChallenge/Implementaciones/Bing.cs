@@ -43,7 +43,7 @@ namespace CodeChallenge.Implementaciones
                     throw new Exception("No se pudo procesar.");
 
                 BingResponse results = JSONAux.Deserialize<BingResponse>(await response.Content.ReadAsStringAsync());
-                return long.Parse(results.PaginasWeb.TotalPaginasEstimadas);
+                return long.Parse(results.webPages.TotalEstimatedMatches);
             }
         }
 

@@ -44,7 +44,7 @@ namespace CodeChallenge.Implementaciones
                     throw new Exception("No se pudo procesar.");
 
                 GoogleResponse resultados = JSONAux.Deserialize<GoogleResponse>(await response.Content.ReadAsStringAsync());
-                return long.Parse(resultados.informacionBusqueda.Totales);
+                return long.Parse(resultados.searchInformation.TotalResults);
             }
         }
         #endregion

@@ -2,6 +2,6 @@
 {
     public class BingResponse
     {
-        public PaginasWeb PaginasWeb { get; set; }
+        public WebPages webPages { get; set; }
     }
 }

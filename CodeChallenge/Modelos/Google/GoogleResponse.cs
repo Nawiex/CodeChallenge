@@ -2,6 +2,6 @@
 {
     public class GoogleResponse
     {
-        public InformacionBusqueda informacionBusqueda { get; set; }
+        public SearchInformation searchInformation { get; set; }
     }
 }

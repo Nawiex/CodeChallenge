@@ -1,7 +1,7 @@
 ﻿namespace CodeChallenge.Modelos.Bing
 {
-    public class PaginasWeb
+    public class WebPages
     {
-        public string TotalPaginasEstimadas { get; set; }
+        public string TotalEstimatedMatches { get; set; }
     }
 }

@@ -1,0 +1,7 @@
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe.config
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.exe
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\bin\Debug\CodeChallenge.pdb
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.AssemblyReference.cache
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.csproj.CoreCompileInputs.cache
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.exe
+D:\Universidad\Cursos Udemy\searchfight\CodeChallenge\CodeChallenge\CodeChallenge\obj\Debug\CodeChallenge.pdb
